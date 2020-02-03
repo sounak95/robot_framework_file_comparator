@@ -1,0 +1,4 @@
+from .tbody_comparator import HTMLTBodyComparatorABC
+from .header_comparator import HTMLHeaderComparator
+from .body_comparator import HTMLBodyComparator
+from .footer_comparator import HTMLFooterComparator
