@@ -1,0 +1,207 @@
+{
+    "header": {
+        "action": "CREATE",
+        "correlation": "1234",
+        "system": "KONDOR+",
+        "user": "KGR",
+        "source": "KONDOR+"
+    },
+    "tradeData": {
+        "pricing": {
+            "dealStamp": "IRS:2",
+            "typeOfDeal": "MARKETDEAL",
+            "currency": "id/EUR",
+            "folder": "id/QARK02",
+            "instrument": "id/IRS",
+            "lastModifiedDate": "2004-07-28 20:51:11",
+            "tradeDate": "2004-07-28",
+            "maturityDate": "2008-08-28"
+        },
+        "limits": {
+            "marketLegs": [
+                {
+                    "deltas": [
+                        {
+                            "marketRiskFactorId": "I/XC/D/EURUSD-SWAP",
+                            "delta":31566.948561,
+                            "deltaShift":1.0
+                        },
+                        {
+                            "marketRiskFactorId": "I/IR/D/EUR-SWAP-QA/3M",
+                            "delta":6201.222467,
+                            "deltaShift":1.0
+                        },
+                        {
+                            "marketRiskFactorId": "I/IR/D/EURUSD-SWAP/3M",
+                            "delta":122.13341,
+                            "deltaShift":1.0
+                        },
+                        {
+                            "marketRiskFactorId": "I/IR/D/EUR-SWAP-QA/6M",
+                            "delta":-517.058323,
+                            "deltaShift":1.0
+                        },
+                        {
+                            "marketRiskFactorId": "I/IR/D/EURUSD-SWAP/6M",
+                            "delta":508.960511,
+                            "deltaShift":1.0
+                        },
+                        {
+                            "marketRiskFactorId": "I/IR/D/EUR-SWAP-QA/1Y",
+                            "delta":-2440.808302,
+                            "deltaShift":1.0
+                        },
+                        {
+                            "marketRiskFactorId": "I/IR/D/EURUSD-SWAP/1Y",
+                            "delta":2353.712989,
+                            "deltaShift":1.0
+                        },
+                        {
+                            "marketRiskFactorId": "I/IR/D/EUR-SWAP-QA/2Y",
+                            "delta":-6082.215136,
+                            "deltaShift":1.0
+                        },
+                        {
+                            "marketRiskFactorId": "I/IR/D/EURUSD-SWAP/2Y",
+                            "delta":6075.834443,
+                            "deltaShift":1.0
+                        },
+                        {
+                            "marketRiskFactorId": "I/IR/D/EUR-SWAP-QA/3Y",
+                            "delta":-173393.741513,
+                            "deltaShift":1.0
+                        },
+                        {
+                            "marketRiskFactorId": "I/IR/D/EURUSD-SWAP/3Y",
+                            "delta":16617.046156,
+                            "deltaShift":1.0
+                        },
+                        {
+                            "marketRiskFactorId": "I/IR/D/EUR-SWAP-QA/5Y",
+                            "delta":-191030.736673,
+                            "deltaShift":1.0
+                        },
+                        {
+                            "marketRiskFactorId": "I/IR/D/EURUSD-SWAP/5Y",
+                            "delta":5890.7758,
+                            "deltaShift":1.0
+                        },
+                        {
+                            "marketRiskFactorId": "I/IR/D/EUR-SWAP-QA/10Y",
+                            "delta":-30.163988,
+                            "deltaShift":1.0
+                        },
+                        {
+                            "marketRiskFactorId": "I/IR/D/EURUSD-SWAP/10Y",
+                            "delta":0.380744,
+                            "deltaShift":1.0
+                        }
+                    ],
+                    "legNumber": 1,
+                    "tradeDate": "2004-07-28",
+                    "maturityDate": "2008-08-28",
+                    "currency": "id/EUR",
+                    "instrument": "id/IRS",
+                    "folder": "id/QARK02",
+                    "businessUnit0": "D_REGION",
+                    "businessUnit1": "D_ENTITY",
+                    "businessUnit2": "QA_BR_RISK",
+                    "businessUnit3": "QAPORTFRK",
+                    "businessUnit4": "QARK02",
+                    "direction": "SELL"
+                },
+                {
+                    "legNumber": 2,
+                    "tradeDate": "2004-07-28",
+                    "maturityDate": "2008-08-28",
+                    "currency": "id/EUR",
+                    "instrument": "id/IRS",
+                    "folder": "id/QARK01",
+                    "businessUnit0": "D_REGION",
+                    "businessUnit1": "D_ENTITY",
+                    "businessUnit2": "QA_BR_RISK",
+                    "businessUnit3": "QAPORTFRK",
+                    "businessUnit4": "QARK01",
+                    "direction": "BUY",
+                    "deltas": [
+                        {
+                            "marketRiskFactorId": "I/IR/D/EUR-SWAP-QA/3M",
+                            "delta":-5052.266657,
+                            "deltaShift":1.0
+                        },
+                        {
+                            "marketRiskFactorId": "I/IR/D/USD-SWAP-QA/3M",
+                            "delta":-118.378477,
+                            "deltaShift":1.0
+                        },
+                        {
+                            "marketRiskFactorId": "I/IR/D/EUR-SWAP-QA/6M",
+                            "delta":521.842392,
+                            "deltaShift":1.0
+                        },
+                        {
+                            "marketRiskFactorId": "I/IR/D/USD-SWAP-QA/6M",
+                            "delta":-424.102591,
+                            "deltaShift":1.0
+                        },
+                        {
+                            "marketRiskFactorId": "I/IR/D/EUR-SWAP-QA/1Y",
+                            "delta":2688.540741,
+                            "deltaShift":1.0
+                        },
+                        {
+                            "marketRiskFactorId": "I/IR/D/USD-SWAP-QA/1Y",
+                            "delta":-1962.761768,
+                            "deltaShift":1.0
+                        },
+                        {
+                            "marketRiskFactorId": "I/IR/D/EUR-SWAP-QA/2Y",
+                            "delta":6705.380595,
+                            "deltaShift":1.0
+                        },
+                        {
+                            "marketRiskFactorId": "I/IR/D/USD-SWAP-QA/2Y",
+                            "delta":-4987.374198,
+                            "deltaShift":1.0
+                        },
+                        {
+                            "marketRiskFactorId": "I/IR/D/EUR-SWAP-QA/3Y",
+                            "delta":141729.116548,
+                            "deltaShift":1.0
+                        },
+                        {
+                            "marketRiskFactorId": "I/IR/D/USD-SWAP-QA/3Y",
+                            "delta":-13259.884738,
+                            "deltaShift":1.0
+                        },
+                        {
+                            "marketRiskFactorId": "I/IR/D/EUR-SWAP-QA/5Y",
+                            "delta":154442.385495,
+                            "deltaShift":1.0
+                        },
+                        {
+                            "marketRiskFactorId": "I/IR/D/USD-SWAP-QA/5Y",
+                            "delta":-4403.983094,
+                            "deltaShift":1.0
+                        },
+                        {
+                            "marketRiskFactorId": "I/IR/D/EUR-SWAP-QA/10Y",
+                            "delta":24.248579,
+                            "deltaShift":1.0
+                        },
+                        {
+                            "marketRiskFactorId": "I/IR/D/USD-SWAP-QA/10Y",
+                            "delta":-0.19066,
+                            "deltaShift":1.0
+                        }
+                    ]
+                }
+            ],
+            "dealTable": "id/DEFAULT",
+            "dealStamp": "IRS:2",
+            "captureDate": "2004-07-28 20:51:11",
+            "source": "id/KONDOR",
+            "user": "id/KPLUS"
+        }
+    }
+}

@@ -1,0 +1,854 @@
+{
+	"id": "18",
+	"displayId": "606",
+	"result": {
+		"WarrantsDeals***": {
+			"***queryAllocUpdateConfirm": null,
+			"***insert": null,
+			"***audit": null,
+			"***print": null,
+			"***quickSearch": 606,
+			"***update": null,
+			"***delete": null,
+			"***applyIsPartialCutUp": null,
+			"***textinfo": null,
+			"***versionning": null,
+			"WarrantsDealsVersionningFieldGroup": {
+				"***versCompare": null,
+				"***versSecond": null,
+				"***versShowDifs": {
+					"name": "No",
+					"id": 0
+				},
+				"***versFirst": null,
+				"***versShortList": [
+				],
+				"***versAllDetailsTable": [
+				]
+			},
+			"customFieldGroup": {
+				"***clearAllCW": null,
+				"***customNoticeQuery": null,
+				"***openAllCW": null
+			},
+			"***strModeConfirm": null,
+			"***queryCutUpUpdateConfirm": null,
+			"***insertRollOverConfirm": null,
+			"***queryCutUpInsertConfirm": null,
+			"***reloadDeal": null,
+			"***strategiesDefUpdateConfirm": null,
+			"***insertConfirm": null,
+			"***updateConfirm": null,
+			"***queryCutUpDeleteConfirm": null,
+			"***strategiesDefInsertConfirm": null,
+			"***strategiesDefDeleteConfirm": null,
+			"***queryAllocInsertConfirm": null,
+			"strategies": {
+				"***sendCommand": null
+			},
+			"***cutUpBtn": null,
+			"***strategies": null,
+			"***deleteConfirm": null,
+			"***clear": null,
+			"strategiesdeals": {
+				"***strategiesSimulate": null,
+				"***strHedgingType": {
+					"name": "Cash Flow Hedge",
+					"id": 0
+				},
+				"***strHedgingTypeDateEnd": null,
+				"***strHedgingTypeUpdateButton": null,
+				"***strGlobalStrategyGlobalTable": [
+				],
+				"***isIASStrategyActive": {
+					"name": "No",
+					"id": 0
+				},
+				"***strLocalIsExternal": {
+					"name": "No",
+					"id": 0
+				},
+				"***strDownloadKey": "",
+				"***strCurrency": {
+					"name": "",
+					"id": ""
+				},
+				"***strGlobalIsMirror": {
+					"name": "No",
+					"id": 0
+				},
+				"***strGlobalShowDealsButton": null,
+				"***strategiesOpen": null,
+				"***strHedgingTypeTable": [
+				],
+				"***strHedgingTypeInsertButton": null,
+				"***strategieDefShortname": "",
+				"***strLocalDealNumber": "",
+				"***strategieType": {
+					"name": "",
+					"id": ""
+				},
+				"***strLocalAllDealSearchButton": null,
+				"***strHedgedHedgingType": {
+					"name": "Hedged",
+					"id": 0
+				},
+				"***strLocalTypeOfDeal": {
+					"name": "BondDeals",
+					"id": 0
+				},
+				"***strLocalRemoveStrategyLocalButton": null,
+				"***strGlobalBlockNumber": "",
+				"***strategiesDefUpdate": null,
+				"***strGlobalAddButton": null,
+				"***strIsRevoked": {
+					"name": "No",
+					"id": 0
+				},
+				"***strUpperLimit": null,
+				"***strGlobalFolder": {
+					"name": "",
+					"id": ""
+				},
+				"***strGenerateNameButton": null,
+				"***strGlobalUpdateButton": null,
+				"***strLocalStrategyLocalTable": [
+				],
+				"***strLowerLimit": null,
+				"***strGlobalIsCaptured": {
+					"name": "No",
+					"id": 0
+				},
+				"***strMode": {
+					"name": "Local",
+					"id": 0
+				},
+				"***strategiesDefInsert": null,
+				"***strategiesDefAudit": null,
+				"***strLocalUpdateStrategyLocalButton": null,
+				"***strIsValid": {
+					"name": "No",
+					"id": 0
+				},
+				"***strategieDefName": "",
+				"***strategiesDefClear": null,
+				"***strIsModel": {
+					"name": "No",
+					"id": 0
+				},
+				"***strPercentage": null,
+				"***strLocalAddStrategyLocalButton": null,
+				"***strGlobalRemoveButton": null,
+				"***strRemainingPercentage": null,
+				"***strHedgingTypeDeleteButton": null,
+				"***strEffectivenessTest": {
+					"name": "Dollar Offset",
+					"id": 0
+				},
+				"***strLocalExternalTypeOfDeal": {
+					"name": "",
+					"id": ""
+				},
+				"***strLocalShowArchivedDeals": {
+					"name": "No",
+					"id": 0
+				},
+				"***strComments": "",
+				"***strHedgingTypeButton": null,
+				"***strHedgingTypeDateStart": null,
+				"***strHedgedRisk": {
+					"name": "Interest Rate Risk",
+					"id": 3
+				},
+				"***strategiesDefDelete": null
+			},
+			"***advancedSearch": null,
+			"***allocationBtn": null,
+			"***complianceButton": null,
+			"WarrantsDealsCutUpFieldGroup": {
+				"***fldCutUpClear": null,
+				"***fldCutUpApply": null,
+				"***fldCutUpHeadUnderlying": "QA WARRANT BOND 1",
+				"***fldCpMsg": "",
+				"***fldCutUpQtRemaining": 5000,
+				"***fldCutUpList": [
+				],
+				"***fldCutUpUpdate": null,
+				"***fldCutUpFoldersRef": {
+					"name": "",
+					"id": ""
+				},
+				"***fldCutUpInsert": null,
+				"***fldCutUpDelete": null,
+				"***fldCutUpHeadQt": 5000,
+				"***fldPrice": null,
+				"***fldCutUpQuantity": 1
+			},
+			"***queryAllocDeleteConfirm": null,
+			"***limits": null,
+			"deals": {
+				"***textInfoDeleteCommand": null,
+				"***quantity": 5000,
+				"***brokerage": 2.12,
+				"***blockNumber": 17826,
+				"***paymentDate": "2004-07-30",
+				"***dealType": {
+					"name": "Sell",
+					"id": 1
+				},
+				"***settlementDate": "2004-07-28",
+				"***grossAmount": 6600,
+				"***netAmount": 6607.9,
+				"***textInfoSaveCommand": null,
+				"***user": "QAKPLUS",
+				"***callPutType": "CALL",
+				"***uti": "",
+				"***brokersRef": {
+					"name": "QABROKER",
+					"id": "QABROKER"
+				},
+				"***tax": 1.21,
+				"***sellersRef": {
+					"name": "QASELLER",
+					"id": "QASELLER"
+				},
+				"***tradeDate": "2004-07-28",
+				"***underlying": {
+					"name": "Bond",
+					"id": 1
+				},
+				"***strike": 100,
+				"***clearingModesRef": {
+					"name": "CEDEL",
+					"id": "CEDEL"
+				},
+				"***underlyingShortName": "401970",
+				"***loadImportedDealValues": "",
+				"***captureDate": "2004-07-28",
+				"***price": 1.32,
+				"***warrantsRef": {
+					"name": "WARRANTB1",
+					"id": "WARRANTB1"
+				},
+				"***foldersRef": {
+					"name": "QAWARRUP",
+					"id": "QAWARRUP"
+				},
+				"***margin": 0.1,
+				"***textInfoComment": "",
+				"***conversionNumberOfWarrant": 1,
+				"***textInfoClearCommand": null,
+				"***purposesRef": {
+					"name": "QAPURPOSE",
+					"id": "QAPURPOSE"
+				},
+				"***cptyRef": {
+					"name": "QACPTYEXT",
+					"id": "QACPTYEXT"
+				},
+				"***statuses": [
+				],
+				"***vat": -11.23,
+				"***conversionNumberOfUnderlying": 1,
+				"***dealNumber": "VAL_CAP_WAR:606",
+				"***underlyingName": "401970 - 06.660% VENEZUELA DM-ANL 90/20",
+				"***typeOfEvent": "None",
+				"***comments": "Warrant Deals Update"
+			},
+			"***search": null,
+			"WarrantsDealsAllocFieldGroup": {
+				"***fldAllocHeadQt": 5000,
+				"***fldAllocList": [
+				],
+				"***fldCpty": {
+					"name": "",
+					"id": ""
+				},
+				"***fldAllocQtRemaining": 100,
+				"***fldAllocHeadAmount": 0,
+				"***fldPerc": 0.01,
+				"***fldAllocHeadUnderlying": "QA WARRANT BOND 1",
+				"***fldCpMsg": "",
+				"***fldAllocQuantity": 1,
+				"***fldAllocApply": null,
+				"***fldAllocDelete": null,
+				"***fldAllocQtType": {
+					"name": "Percent",
+					"id": 0
+				},
+				"***fldAllocInsert": null,
+				"***fldAllocUpdate": null,
+				"***fldAllocHeadPerc": 1,
+				"***fldAllocFoldersRef": {
+					"name": "",
+					"id": ""
+				},
+				"***fldAllocClear": null,
+				"***fldAllocAmount": 1
+			},
+			"WarrantsDealsStrategiesOverviewFieldGroup": {
+				"***strategiesTable": [
+				],
+				"***StrategiesOverviewOpen": null,
+				"***overviewInfo": "",
+				"***dealsTable": [
+				]
+			}
+		}
+	},
+	"modelType": {
+		"model": "trade",
+		"type": "WarrantsDeals"
+	},
+	"enumerations": {
+		"WarrantsDeals***": {
+			"WarrantsDealsCutUpFieldGroup": {
+				"***fldCutUpList": {
+				}
+			},
+			"strategies": {
+			},
+			"deals": {
+				"***dealType": [
+					{
+						"name": "Buy",
+						"id": 0
+					},
+					{
+						"name": "Sell",
+						"id": 1
+					}
+				],
+				"***underlying": [
+					{
+						"name": "Equity",
+						"id": 0
+					},
+					{
+						"name": "Bond",
+						"id": 1
+					},
+					{
+						"name": "Index",
+						"id": 2
+					},
+					{
+						"name": "Currency",
+						"id": 3
+					}
+				],
+				"***statuses": {
+				}
+			},
+			"WarrantsDealsAllocFieldGroup": {
+				"***fldAllocQtType": [
+					{
+						"name": "Percent",
+						"id": 0
+					},
+					{
+						"name": "Quantity",
+						"id": 1
+					}
+				],
+				"***fldAllocList": {
+				}
+			},
+			"WarrantsDealsVersionningFieldGroup": {
+				"***versShowDifs": [
+					{
+						"name": "No",
+						"id": 0
+					},
+					{
+						"name": "Yes",
+						"id": 1
+					}
+				],
+				"***versShortList": {
+				}
+			},
+			"strategiesdeals": {
+				"***strLocalStrategyLocalTable": {
+				},
+				"***strGlobalIsCaptured": [
+					{
+						"name": "No",
+						"id": 0
+					},
+					{
+						"name": "Yes",
+						"id": 1
+					}
+				],
+				"***strMode": [
+					{
+						"name": "Local",
+						"id": 0
+					},
+					{
+						"name": "Global",
+						"id": 1
+					}
+				],
+				"***strEffectivenessTest": [
+					{
+						"name": "Dollar Offset",
+						"id": 0
+					},
+					{
+						"name": "Shortcut Method",
+						"id": 1
+					}
+				],
+				"***strHedgingType": [
+					{
+						"name": "Cash Flow Hedge",
+						"id": 0
+					},
+					{
+						"name": "Fair Value Hedge",
+						"id": 1
+					},
+					{
+						"name": "Net Investment Hedge",
+						"id": 2
+					},
+					{
+						"name": "Other",
+						"id": 3
+					}
+				],
+				"***strHedgedHedgingType": [
+					{
+						"name": "Hedged",
+						"id": 0
+					},
+					{
+						"name": "Hedging",
+						"id": 1
+					}
+				],
+				"***strLocalTypeOfDeal": [
+					{
+						"name": "BondDeals",
+						"id": 0
+					},
+					{
+						"name": "BondOTCOptionDeals",
+						"id": 1
+					},
+					{
+						"name": "CallAccountDeals",
+						"id": 2
+					},
+					{
+						"name": "CapFloorDeals",
+						"id": 3
+					},
+					{
+						"name": "CashflowDeals",
+						"id": 4
+					},
+					{
+						"name": "CreditSwapDeals",
+						"id": 5
+					},
+					{
+						"name": "Equity",
+						"id": 6
+					},
+					{
+						"name": "CommodityDeals",
+						"id": 7
+					},
+					{
+						"name": "EquitySwapDeals",
+						"id": 8
+					},
+					{
+						"name": "ForwardDeals",
+						"id": 9
+					},
+					{
+						"name": "FraDeals",
+						"id": 10
+					},
+					{
+						"name": "FutureDeals",
+						"id": 11
+					},
+					{
+						"name": "FxOTCOptionsDeals",
+						"id": 12
+					},
+					{
+						"name": "FxSwapDeals",
+						"id": 13
+					},
+					{
+						"name": "IamDeals",
+						"id": 14
+					},
+					{
+						"name": "IrsCirsDeals",
+						"id": 15
+					},
+					{
+						"name": "LoansDepositDeals",
+						"id": 16
+					},
+					{
+						"name": "MbsAbsDeals",
+						"id": 17
+					},
+					{
+						"name": "OptionDeals",
+						"id": 18
+					},
+					{
+						"name": "OTCOptionDeals",
+						"id": 19
+					},
+					{
+						"name": "PaperDeals",
+						"id": 20
+					},
+					{
+						"name": "RepoDeals",
+						"id": 21
+					},
+					{
+						"name": "SecuritiesLendingDeals",
+						"id": 22
+					},
+					{
+						"name": "SpotDeals",
+						"id": 23
+					},
+					{
+						"name": "SwaptionDeals",
+						"id": 24
+					},
+					{
+						"name": "WarrantDeals",
+						"id": 25
+					}
+				],
+				"***strLocalShowArchivedDeals": [
+					{
+						"name": "No",
+						"id": 0
+					},
+					{
+						"name": "Yes",
+						"id": 1
+					}
+				],
+				"***strGlobalStrategyGlobalTable": {
+				},
+				"***isIASStrategyActive": [
+					{
+						"name": "No",
+						"id": 0
+					},
+					{
+						"name": "Yes",
+						"id": 1
+					}
+				],
+				"***strLocalIsExternal": [
+					{
+						"name": "No",
+						"id": 0
+					},
+					{
+						"name": "Yes",
+						"id": 1
+					}
+				],
+				"***strGlobalIsMirror": [
+					{
+						"name": "No",
+						"id": 0
+					},
+					{
+						"name": "Yes",
+						"id": 1
+					}
+				],
+				"***strIsValid": [
+					{
+						"name": "No",
+						"id": 0
+					},
+					{
+						"name": "Yes",
+						"id": 1
+					}
+				],
+				"***strHedgedRisk": [
+					{
+						"name": "Credit Risk",
+						"id": 0
+					},
+					{
+						"name": "Equity Risk",
+						"id": 1
+					},
+					{
+						"name": "Fx Risk",
+						"id": 2
+					},
+					{
+						"name": "Interest Rate Risk",
+						"id": 3
+					},
+					{
+						"name": "Basis Swap Risk",
+						"id": 4
+					},
+					{
+						"name": "Multi Risk",
+						"id": 5
+					},
+					{
+						"name": "Other Risk",
+						"id": 6
+					}
+				],
+				"***strIsRevoked": [
+					{
+						"name": "No",
+						"id": 0
+					},
+					{
+						"name": "Yes",
+						"id": 1
+					}
+				],
+				"***strHedgingTypeTable": {
+				},
+				"***strIsModel": [
+					{
+						"name": "No",
+						"id": 0
+					},
+					{
+						"name": "Yes",
+						"id": 1
+					}
+				]
+			},
+			"customFieldGroup": {
+			},
+			"WarrantsDealsStrategiesOverviewFieldGroup": {
+				"***strategiesTable": {
+				},
+				"***dealsTable": {
+				}
+			}
+		}
+	},
+	"statuses": {
+		"WarrantsDeals***": {
+			"***queryAllocUpdateConfirm": "NOT_RELEVANT",
+			"***insert": "ACTIVE",
+			"***audit": "ACTIVE",
+			"***print": "ACTIVE",
+			"***quickSearch": "ACTIVE",
+			"***update": "ACTIVE",
+			"***delete": "ACTIVE",
+			"***applyIsPartialCutUp": "NOT_RELEVANT",
+			"***textinfo": "ACTIVE",
+			"***versionning": "ACTIVE",
+			"WarrantsDealsVersionningFieldGroup": {
+				"***versCompare": "ACTIVE",
+				"***versSecond": "ACTIVE",
+				"***versShowDifs": "REQUIRED",
+				"***versFirst": "ACTIVE",
+				"***versShortList": [
+				],
+				"***versAllDetailsTable": {
+				}
+			},
+			"customFieldGroup": {
+				"***clearAllCW": "ACTIVE",
+				"***customNoticeQuery": "NOT_RELEVANT",
+				"***openAllCW": "ACTIVE"
+			},
+			"***strModeConfirm": "NOT_RELEVANT",
+			"***queryCutUpUpdateConfirm": "NOT_RELEVANT",
+			"***insertRollOverConfirm": "NOT_RELEVANT",
+			"***queryCutUpInsertConfirm": "NOT_RELEVANT",
+			"***reloadDeal": "ACTIVE",
+			"***strategiesDefUpdateConfirm": "NOT_RELEVANT",
+			"***insertConfirm": "NOT_RELEVANT",
+			"***updateConfirm": "NOT_RELEVANT",
+			"***queryCutUpDeleteConfirm": "NOT_RELEVANT",
+			"***strategiesDefInsertConfirm": "NOT_RELEVANT",
+			"***strategiesDefDeleteConfirm": "NOT_RELEVANT",
+			"***queryAllocInsertConfirm": "NOT_RELEVANT",
+			"strategies": {
+				"***sendCommand": "ACTIVE"
+			},
+			"***cutUpBtn": "ACTIVE",
+			"***strategies": "ACTIVE",
+			"***deleteConfirm": "NOT_RELEVANT",
+			"***clear": "ACTIVE",
+			"strategiesdeals": {
+				"***strategiesSimulate": "COMPUTED",
+				"***strHedgingType": "ACTIVE",
+				"***strHedgingTypeDateEnd": "ACTIVE",
+				"***strHedgingTypeUpdateButton": "ACTIVE",
+				"***strGlobalStrategyGlobalTable": [
+				],
+				"***isIASStrategyActive": "ACTIVE",
+				"***strLocalIsExternal": "ACTIVE",
+				"***strDownloadKey": "ACTIVE",
+				"***strCurrency": "ACTIVE",
+				"***strGlobalIsMirror": "COMPUTED",
+				"***strGlobalShowDealsButton": "NOT_RELEVANT",
+				"***strategiesOpen": "ACTIVE",
+				"***strHedgingTypeTable": [
+				],
+				"***strHedgingTypeInsertButton": "ACTIVE",
+				"***strategieDefShortname": "REQUIRED",
+				"***strLocalDealNumber": "ACTIVE",
+				"***strategieType": "ACTIVE",
+				"***strLocalAllDealSearchButton": "ACTIVE",
+				"***strHedgedHedgingType": "COMPUTED",
+				"***strLocalTypeOfDeal": "ACTIVE",
+				"***strLocalRemoveStrategyLocalButton": "COMPUTED",
+				"***strGlobalBlockNumber": "NOT_RELEVANT",
+				"***strategiesDefUpdate": "ACTIVE",
+				"***strGlobalAddButton": "NOT_RELEVANT",
+				"***strIsRevoked": "COMPUTED",
+				"***strUpperLimit": "COMPUTED",
+				"***strGlobalFolder": "NOT_RELEVANT",
+				"***strGenerateNameButton": "ACTIVE",
+				"***strGlobalUpdateButton": "NOT_RELEVANT",
+				"***strLocalStrategyLocalTable": [
+				],
+				"***strLowerLimit": "COMPUTED",
+				"***strGlobalIsCaptured": "COMPUTED",
+				"***strMode": "REQUIRED",
+				"***strategiesDefInsert": "ACTIVE",
+				"***strategiesDefAudit": "COMPUTED",
+				"***strLocalUpdateStrategyLocalButton": "COMPUTED",
+				"***strIsValid": "COMPUTED",
+				"***strategieDefName": "REQUIRED",
+				"***strategiesDefClear": "ACTIVE",
+				"***strIsModel": "ACTIVE",
+				"***strPercentage": "NOT_RELEVANT",
+				"***strLocalAddStrategyLocalButton": "COMPUTED",
+				"***strGlobalRemoveButton": "NOT_RELEVANT",
+				"***strRemainingPercentage": "NOT_RELEVANT",
+				"***strHedgingTypeDeleteButton": "ACTIVE",
+				"***strEffectivenessTest": "COMPUTED",
+				"***strLocalExternalTypeOfDeal": "COMPUTED",
+				"***strLocalShowArchivedDeals": "COMPUTED",
+				"***strComments": "ACTIVE",
+				"***strHedgingTypeButton": "COMPUTED",
+				"***strHedgingTypeDateStart": "ACTIVE",
+				"***strHedgedRisk": "COMPUTED",
+				"***strategiesDefDelete": "ACTIVE"
+			},
+			"***advancedSearch": "ACTIVE",
+			"***allocationBtn": "ACTIVE",
+			"***complianceButton": "NOT_RELEVANT",
+			"WarrantsDealsCutUpFieldGroup": {
+				"***fldCutUpClear": "ACTIVE",
+				"***fldCutUpApply": "ACTIVE",
+				"***fldCutUpHeadUnderlying": "ACTIVE",
+				"***fldCpMsg": "ACTIVE",
+				"***fldCutUpQtRemaining": "COMPUTED",
+				"***fldCutUpList": [
+				],
+				"***fldCutUpUpdate": "COMPUTED",
+				"***fldCutUpFoldersRef": "REQUIRED",
+				"***fldCutUpInsert": "ACTIVE",
+				"***fldCutUpDelete": "COMPUTED",
+				"***fldCutUpHeadQt": "ACTIVE",
+				"***fldPrice": "REQUIRED",
+				"***fldCutUpQuantity": "REQUIRED"
+			},
+			"***queryAllocDeleteConfirm": "NOT_RELEVANT",
+			"***limits": "ACTIVE",
+			"deals": {
+				"***textInfoDeleteCommand": "ACTIVE",
+				"***quantity": "REQUIRED",
+				"***brokerage": "ACTIVE",
+				"***blockNumber": "COMPUTED",
+				"***paymentDate": "REQUIRED",
+				"***dealType": "REQUIRED",
+				"***settlementDate": "REQUIRED",
+				"***grossAmount": "COMPUTED",
+				"***netAmount": "COMPUTED",
+				"***textInfoSaveCommand": "ACTIVE",
+				"***user": "COMPUTED",
+				"***callPutType": "COMPUTED",
+				"***uti": "COMPUTED",
+				"***brokersRef": "ACTIVE",
+				"***tax": "ACTIVE",
+				"***sellersRef": "ACTIVE",
+				"***tradeDate": "REQUIRED",
+				"***underlying": "REQUIRED",
+				"***strike": "COMPUTED",
+				"***clearingModesRef": "ACTIVE",
+				"***underlyingShortName": "COMPUTED",
+				"***loadImportedDealValues": "ACTIVE",
+				"***captureDate": "COMPUTED",
+				"***price": "REQUIRED",
+				"***warrantsRef": "REQUIRED",
+				"***foldersRef": "REQUIRED",
+				"***margin": "ACTIVE",
+				"***textInfoComment": "ACTIVE",
+				"***conversionNumberOfWarrant": "COMPUTED",
+				"***textInfoClearCommand": "ACTIVE",
+				"***purposesRef": "ACTIVE",
+				"***cptyRef": "ACTIVE",
+				"***statuses": [
+				],
+				"***vat": "ACTIVE",
+				"***conversionNumberOfUnderlying": "COMPUTED",
+				"***dealNumber": "COMPUTED",
+				"***underlyingName": "COMPUTED",
+				"***typeOfEvent": "COMPUTED",
+				"***comments": "ACTIVE"
+			},
+			"***search": "ACTIVE",
+			"WarrantsDealsAllocFieldGroup": {
+				"***fldAllocHeadQt": "NOT_RELEVANT",
+				"***fldAllocList": [
+				],
+				"***fldCpty": "ACTIVE",
+				"***fldAllocQtRemaining": "COMPUTED",
+				"***fldAllocHeadAmount": "NOT_RELEVANT",
+				"***fldPerc": "REQUIRED",
+				"***fldAllocHeadUnderlying": "ACTIVE",
+				"***fldCpMsg": "ACTIVE",
+				"***fldAllocQuantity": "REQUIRED",
+				"***fldAllocApply": "ACTIVE",
+				"***fldAllocDelete": "COMPUTED",
+				"***fldAllocQtType": "REQUIRED",
+				"***fldAllocInsert": "ACTIVE",
+				"***fldAllocUpdate": "COMPUTED",
+				"***fldAllocHeadPerc": "ACTIVE",
+				"***fldAllocFoldersRef": "REQUIRED",
+				"***fldAllocClear": "ACTIVE",
+				"***fldAllocAmount": "COMPUTED"
+			},
+			"WarrantsDealsStrategiesOverviewFieldGroup": {
+				"***strategiesTable": [
+				],
+				"***StrategiesOverviewOpen": "ACTIVE",
+				"***overviewInfo": "ACTIVE",
+				"***dealsTable": [
+				]
+			}
+		}
+	},
+	"messages": [
+	]
+}
